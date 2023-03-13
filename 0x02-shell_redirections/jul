@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 13-unique
-chmod 13-unique
+vi 14-findthatword
+chmod 14-findthatword
 git add .
-git commit -m "13-unique"
+git commit -m "14-findthatword"
 git push
