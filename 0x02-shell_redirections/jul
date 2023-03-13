@@ -2,5 +2,5 @@
 vi 101-gifs
 chmod u+x 101-gifs
 git add .
-git commit -m "101-gifs"
+git commit -m '101-gifs'
 git push
