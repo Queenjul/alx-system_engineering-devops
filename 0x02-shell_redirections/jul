@@ -1,0 +1,6 @@
+#!/bin/bash
+vi 8-cwd_state
+chmod u+x 8-cwd_state
+git add .
+git commit -m "8-cwd_state"
+git push
