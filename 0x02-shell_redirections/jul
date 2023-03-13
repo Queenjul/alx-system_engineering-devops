@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 8-cwd_state
-chmod u+x 8-cwd_state
+vi 9-duplicate_last_line
+chmod u+x 9-duplicate_last_line
 git add .
-git commit -m "8-cwd_state"
+git commit -m "9-duplicate_last_line"
 git push
