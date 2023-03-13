@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 19-AZ
-chmod u+x 19-AZ
+vi 20-hiago   
+chmod u+x 20-hiago
 git add .
-git commit -m "19-AZ"
+git commit -m "20-hiago"
 git push
