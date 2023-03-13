@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 11-directories
-chmod u+x 11-directories
+vi 12-newest_files
+chmod 12-newest_files
 git add .
-git commit -m "11-directories"
+git commit -m "12-newest_files"
 git push
