@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 16-whatsnext
-chmod 16-whatsnext
+vi 17-hidethisword
+chmod u+x 17-hidethisword
 git add .
-git commit -m "16-whatsnext"
+git commit -m "17-hidethisword"
 git push
