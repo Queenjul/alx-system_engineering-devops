@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 9-duplicate_last_line
-chmod u+x 9-duplicate_last_line
+vi 10-no_more_js
+chmod u+x 10-no_more_js
 git add .
-git commit -m "9-duplicate_last_line"
+git commit -m "10-no_more_js"
 git push
