@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 18-letteronly
-chmod u+x 18-letteronly
+vi 18-19-AZ
+chmod u+x 19-AZ
 git add .
-git commit -m "18-letteronly"
+git commit -m "19-AZ"
 git push
