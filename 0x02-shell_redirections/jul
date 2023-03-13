@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 21-reverse   
-chmod u+x 21-reverse
+vi 22-users_and_homes   
+chmod u+x 22-users_and_homes
 git add .
-git commit -m "21-reverse"
+git commit -m "22-users_and_homes"
 git push
