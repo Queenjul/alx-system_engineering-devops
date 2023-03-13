@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 20-hiago   
-chmod u+x 20-hiago
+vi 21-reverse   
+chmod u+x 21-reverse
 git add .
-git commit -m "20-hiago"
+git commit -m "21-reverse"
 git push
