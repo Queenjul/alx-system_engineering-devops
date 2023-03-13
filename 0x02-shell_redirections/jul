@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 100-empty_casks
-chmod u+x 100-empty_casks
+vi 101-gifs
+chmod u+x 101-gifs
 git add .
-git commit -m "100-empty_casks"
+git commit -m "101-gifs"
 git push
