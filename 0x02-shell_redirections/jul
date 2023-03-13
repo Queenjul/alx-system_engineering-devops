@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 12-newest_files
-chmod 12-newest_files
+vi 13-unique
+chmod 13-unique
 git add .
-git commit -m "12-newest_files"
+git commit -m "13-unique"
 git push
