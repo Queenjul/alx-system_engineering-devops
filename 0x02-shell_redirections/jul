@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 15-countthatword
-chmod 15-countthatword
+vi 16-whatsnext
+chmod 16-whatsnext
 git add .
-git commit -m "15-countthatword"
+git commit -m "16-whatsnext"
 git push
