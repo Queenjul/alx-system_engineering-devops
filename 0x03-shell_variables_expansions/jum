@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 13-print_float
-chmod u+x 13-print_float
+vi 100-decimal_to_hexadecimal
+chmod u+x 100-decimal_to_hexadecimal
 git add .
-git commit -m "13-print_float"
+git commit -m "100-decimal_to_hexadecimal"
 git push
