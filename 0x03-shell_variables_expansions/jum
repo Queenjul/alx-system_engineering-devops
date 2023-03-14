@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 8-true_knowledge
-chmod u+x 8-true_knowledge
+vi 9-divide_and_rule
+chmod u+x 9-divide_and_rule
 git add .
-git commit -m "8-true_knowledge"
+git commit -m "9-divide_and_rule"
 git push
