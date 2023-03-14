@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 101-rot13
-chmod u+x 101-rot13
+vi 102-odd
+chmod u+x 102-odd
 git add .
-git commit -m "101-rot13"
+git commit -m "102-odd"
 git push
