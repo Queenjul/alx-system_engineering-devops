@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 3-paths
-chmod u+x 3-paths
+vi 4-global_variables
+chmod u+x 4-global_variables
 git add .
-git commit -m "3-paths"
+git commit -m "4-global_variables"
 git push
