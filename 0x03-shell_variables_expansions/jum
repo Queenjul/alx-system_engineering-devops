@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 10-love_exponent_breath
-chmod u+x 10-love_exponent_breath
+vi 11-binary_to_decimal
+chmod u+x 11-binary_to_decimal
 git add .
-git commit -m "10-love_exponent_breath"
+git commit -m "11-binary_to_decimal"
 git push
