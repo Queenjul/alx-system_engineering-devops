@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 6-create_local_variable
-chmod u+x 6-create_local_variable
+vi 7-create_global_variable
+chmod u+x 7-create_global_variable
 git add .
-git commit -m "6-create_local_variable"
+git commit -m "7-create_global_variable"
 git push
