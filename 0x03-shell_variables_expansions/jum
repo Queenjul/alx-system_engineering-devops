@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 12-combinations
-chmod u+x 12-combinations
+vi 13-print_float
+chmod u+x 13-print_float
 git add .
-git commit -m "12-combinations"
+git commit -m "13-print_float"
 git push
