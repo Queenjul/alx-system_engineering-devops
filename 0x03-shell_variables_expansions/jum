@@ -1,0 +1,6 @@
+#!/bin/bash
+vi 3-paths
+chmod u+x 3-paths
+git add .
+git commit -m "3-paths"
+git push
