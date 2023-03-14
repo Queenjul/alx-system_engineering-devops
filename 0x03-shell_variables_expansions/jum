@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 5-local_variables
-chmod u+x 5-local_variables
+vi 6-create_local_variable
+chmod u+x 6-create_local_variable
 git add .
-git commit -m "5-local_variables"
+git commit -m "6-create_local_variable"
 git push
