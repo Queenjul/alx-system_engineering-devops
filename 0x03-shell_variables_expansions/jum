@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 102-odd
-chmod u+x 102-odd
+vi 103-water_and_stir
+chmod u+x 103-water_and_stir
 git add .
-git commit -m "102-odd"
+git commit -m "103-water_and_stir"
 git push
