@@ -1,6 +1,6 @@
 #!/bin/bash
-vi 7-create_global_variable
-chmod u+x 7-create_global_variable
+vi 8-true_knowledge
+chmod u+x 8-true_knowledge
 git add .
-git commit -m "7-create_global_variable"
+git commit -m "8-true_knowledge"
 git push
